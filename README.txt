@@ -12,7 +12,7 @@ If you want to use your phone, look up how to use your phone as a webcam.  I use
 
 Step 3: point the camera at some black lego connector pieces and press the spacebar.
 
-Hopefully this is enough information if you want to actually run this Krill, if not just ask me lol.  
+Hopefully this is enough information if you want to actually run this Krill, if not just ask me.  
 
 
 
